@@ -1,0 +1,24 @@
+{
+  "id": "/",
+  "name": "Dodge Wall",
+  "short_name": "DodgeWall",
+  "description": "Dodge falling walls in this fast, minimalist survival arcade game.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "orientation": "portrait",
+  "background_color": "#090b12",
+  "theme_color": "#090b12",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
